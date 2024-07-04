@@ -2,6 +2,7 @@
 title: Gawr Gura
 image: /files/a791738ee5b427de16300c76cd941ec5.jpg
 publish: false
+genre: Anime
 date: 2024-07-04
 ---
 # **Gawr Gura**
