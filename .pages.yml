@@ -4,7 +4,7 @@ content:
    type: collection
    path: src/docs
    view:
-    fields: [ title, date, publish, genre ] 
+    fields: [ title, image, date,  genre, publish ] 
     primary: title
     sort: [ date, title ]
     default:
