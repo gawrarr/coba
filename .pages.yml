@@ -31,7 +31,7 @@ content:
      fields: [ images, title ]
    fields: 
     - { name: title, label: Title, type: string, required: true }
-    - { name: images, label: Image, type: image, list: true }
+    - { name: images, label: Image, type: image, list: {  min: 1, max: 4 } }
     
   
 media: files
