@@ -1,0 +1,10 @@
+---
+title: Herta Kawai
+image: /files/herta-nesu.jpg
+publish: true
+genre: Anime
+date: 2024-07-05
+---
+# **Herta Kawaine**
+
+# ![](/files/herta-nesu.jpg)![](/files/herta.jpg)
