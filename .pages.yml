@@ -4,7 +4,7 @@ content:
    type: collection
    path: src/docs
    view:
-    fields: [ title, date ] 
+    fields: [ title, date, publish ] 
    fields:
     - {name: title, label: Title, type: string, required: true }
     - { name: image, label: Image, type: image }
@@ -16,7 +16,7 @@ content:
    type: collection
    path: src/anime
    view:
-    fields: [ title, date ] 
+    fields: [ title, date, publish ] 
    fields:
     - {name: title, label: Title, type: string, required: true }
     - { name: image, label: Image, type: image }
