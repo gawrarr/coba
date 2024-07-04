@@ -1,7 +1,7 @@
 ---
 title: Anya Kawai
 image: /files/anya.jpg
-publish: false
+publish: true
 date: 2024-07-04
 ---
 # **Anya**
