@@ -23,6 +23,12 @@ content:
     - { name: publish, label: Publish, type: boolean,  }
     - { name: date, label: Date, type: date }
     - { name: body, label: Body,  type: rich-text }
+ - name: images
+   label: Images
+   path: src/image
+   type: collection
+   fields: 
+    - { name: images, label: Image, type: image, list: true }
     
   
 media: files
