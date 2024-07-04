@@ -6,3 +6,5 @@ content:
    fields:
     - {name: title, label: Title, type: string, required: true }
     - { name: body, label: Body,  type: rich-text }
+
+media: files
