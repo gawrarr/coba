@@ -9,3 +9,5 @@ date: 2024-07-04
 adalah seorang anime dari spy familiy
 
 ![anya smirk](https://akcdn.detik.net.id/visual/2022/06/30/anime-spy-x-family-anya-forger_169.jpeg?w=650)
+
+[https://image.popmama.com/content-images/post/20221019/anya-forger-1-30c558ae6b69392e819ead51d4ca244e.jpg?width=600&height=auto](https://image.popmama.com/content-images/post/20221019/anya-forger-1-30c558ae6b69392e819ead51d4ca244e.jpg?width=600&height=auto)
