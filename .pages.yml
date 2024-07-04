@@ -4,7 +4,7 @@ content:
    type: collection
    path: src/docs
    view:
-    fields: [ title, date, publish ] 
+    fields: [ title, date, publish, genre ] 
     primary: title
     sort: [ date, title ]
     default:
@@ -16,7 +16,7 @@ content:
     - {name: title, label: Title, type: string, required: true }
     - { name: image, label: Image, type: image,  required: true }
     - { name: publish, label: Publish, type: boolean }
-    - { name: genre, label: Genre, type: select, options: { values: [Anime, News, Sports] }
+    - { name: genre, label: Genre, type: select, options: { values: [Anime, News, Sports] }}
     - { name: date, label: Date, type: date }
     - { name: body, label: Body,  type: rich-text }
  - name: anime
