@@ -3,7 +3,7 @@ title: Anya Kawai
 image: /files/anya.jpg
 publish: true
 genre: Anime
-date: 2024-07-04
+date: 2024-07-10
 ---
 # **Anya**
 
