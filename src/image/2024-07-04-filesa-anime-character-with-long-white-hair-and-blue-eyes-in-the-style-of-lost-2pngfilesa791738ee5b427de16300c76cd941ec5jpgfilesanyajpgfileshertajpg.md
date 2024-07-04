@@ -1,4 +1,5 @@
 ---
+title: Anime
 images:
   - /files/a anime character with long white hair and blue eyes, in the style of
     Lost 2.png
